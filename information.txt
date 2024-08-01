@@ -1,0 +1,21 @@
+STEP 1 - CREAT TELEGRAM BOT
+IN install.sh edit your repo 
+
+in terminal give commands 
+
+chmod +x *
+./install.sh
+
+AFTER REBUILD 
+
+pip install telebot pymongo aiohttp
+chmod +x *
+python3 Shubh.py
+
+
+
+attack - for attack
+myinfo - my account
+owner - Contact
+help - for help 
+canary - download canary
